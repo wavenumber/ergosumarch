@@ -2,25 +2,145 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "wavenumber",
 	"icon": "https://micro.blog/wavenumber/avatar.jpg",
-	"home_page_url": "https://wavenumber.micro.blog/",
-	"feed_url": "https://wavenumber.micro.blog/feed.json",
+	"home_page_url": "https://ergosum.one/",
+	"feed_url": "https://ergosum.one/feed.json",
 	"items": [
 		
+			{
+				"id": "http://wavenumber.micro.blog/2022/11/27/physicists-find-quantum.html",
+				
+				"content_html": "<p><a href=\"https://phys.org/news/2015-06-physicists-quantum-coherence-entanglement-sides.html\">Physicists find quantum coherence and quantum entanglement are two sides of the same coin</a></p>\n<ul>\n<li>The text explains the findings of a study that showed that quantum coherence and quantum entanglement are &#8220;operationally equivalent.&#8221; This means that they are equivalent for all practical purposes, though still conceptually distinct. The study also showed that coherence and entanglement can be converted into each other. This discovery has several important implications, one of which is that all of the knowledge that researchers have obtained about entanglement can now be directly applied to coherence. The operational equivalence of coherence and entanglement will likely have a far-reaching impact on areas ranging from quantum information theory to more nascent fields such as quantum biology and nanoscale thermodynamics.</li>\n</ul>\n",
+				"content_text": "<p><a href=\"https://phys.org/news/2015-06-physicists-quantum-coherence-entanglement-sides.html\">Physicists find quantum coherence and quantum entanglement are two sides of the same coin</a></p>\n\n<ul>\n<li>The text explains the findings of a study that showed that quantum coherence and quantum entanglement are &#8220;operationally equivalent.&#8221; This means that they are equivalent for all practical purposes, though still conceptually distinct. The study also showed that coherence and entanglement can be converted into each other. This discovery has several important implications, one of which is that all of the knowledge that researchers have obtained about entanglement can now be directly applied to coherence. The operational equivalence of coherence and entanglement will likely have a far-reaching impact on areas ranging from quantum information theory to more nascent fields such as quantum biology and nanoscale thermodynamics.</li>\n</ul>\n",
+				"date_published": "2022-11-27T03:29:23+01:00",
+				"url": "https://ergosum.one/2022/11/27/physicists-find-quantum.html"
+			},
+			{
+				"id": "http://wavenumber.micro.blog/2022/11/26/scientists-unearth-another.html",
+				
+				"content_html": "<p><a href=\"https://www.mpg.de/19235031/0919-ornr-scientists-unearth-another-brain-shrinking-mammal-987453-x\">Scientists unearth another brain-shrinking mammal</a></p>\n<ul>\n<li>The study found that two species of mole - the European mole and the Spanish mole - change their skull size across seasons. The European mole shrinks its skull by eleven percent in winter and regrows it by four percent in spring, while the Spanish mole doesn&#8217;t change skull size at all throughout the year. The researchers concluded that weather, not food availability, was responsible for brain change.</li>\n</ul>\n",
+				"content_text": "<p><a href=\"https://www.mpg.de/19235031/0919-ornr-scientists-unearth-another-brain-shrinking-mammal-987453-x\">Scientists unearth another brain-shrinking mammal</a></p>\n\n<ul>\n<li>The study found that two species of mole - the European mole and the Spanish mole - change their skull size across seasons. The European mole shrinks its skull by eleven percent in winter and regrows it by four percent in spring, while the Spanish mole doesn&#8217;t change skull size at all throughout the year. The researchers concluded that weather, not food availability, was responsible for brain change.</li>\n</ul>\n",
+				"date_published": "2022-11-26T23:24:18+01:00",
+				"url": "https://ergosum.one/2022/11/26/scientists-unearth-another.html"
+			},
+			{
+				"id": "http://wavenumber.micro.blog/2022/11/26/robert-trivers-and.html",
+				
+				"content_html": "<p><a href=\"https://quillette.com/2022/10/07/on-evolved-altruism/\">Robert Trivers and the Riddle of Evolved Altruism</a></p>\n<ul>\n<li>The article discusses the concept of reciprocal altruism, which is when an altruistic act is returned at some point. It explains that this concept is based on the notion that two organisms can benefit each other, and that it is necessary for the evolution of reciprocal altruism. The document also discusses how traditional conflict psychology sees altruistic behavior as a recent development, and how using this perspective, Trivers was able to perceive the conditions necessary for the evolution of reciprocal altruism within a context that includes individuals ready to exploit others.</li>\n</ul>\n",
+				"content_text": "<p><a href=\"https://quillette.com/2022/10/07/on-evolved-altruism/\">Robert Trivers and the Riddle of Evolved Altruism</a></p>\n\n<ul>\n<li>The article discusses the concept of reciprocal altruism, which is when an altruistic act is returned at some point. It explains that this concept is based on the notion that two organisms can benefit each other, and that it is necessary for the evolution of reciprocal altruism. The document also discusses how traditional conflict psychology sees altruistic behavior as a recent development, and how using this perspective, Trivers was able to perceive the conditions necessary for the evolution of reciprocal altruism within a context that includes individuals ready to exploit others.</li>\n</ul>\n",
+				"date_published": "2022-11-26T23:16:55+01:00",
+				"url": "https://ergosum.one/2022/11/26/robert-trivers-and.html"
+			},
+			{
+				"id": "http://wavenumber.micro.blog/2022/11/26/disease-and-deception.html",
+				
+				"content_html": "<p><a href=\"https://quillette.com/2022/10/20/disease-and-deception/\">Disease and Deception</a></p>\n<ul>\n<li>It discusses the phenomenon of people faking or exaggerating illnesses online, known as &#8220;Munchausen by Internet&#8221; (MBI). It describes how people with MBI will often join online support groups and pretend to have a serious illness, often supported by photos borrowed from elsewhere on the Internet. It discusses how current subjects of MBI include a YouTuber who videos herself antagonizing customers and fainting in Walmart; a 20-something-year-old wellness influencer who swears by medical marijuana and posts about her bowel habits; an actress-turned-“professional patient” who twerks while receiving blood transfusions; and a teenager who wears crop tops to show off her feeding tubes. The document also discusses how the Reddit page Illness Fakers (IF) attempts to identify these individuals and discusses the reaction of the online disability community to the issue.</li>\n</ul>\n",
+				"content_text": "<p><a href=\"https://quillette.com/2022/10/20/disease-and-deception/\">Disease and Deception</a></p>\n\n<ul>\n<li>It discusses the phenomenon of people faking or exaggerating illnesses online, known as &#8220;Munchausen by Internet&#8221; (MBI). It describes how people with MBI will often join online support groups and pretend to have a serious illness, often supported by photos borrowed from elsewhere on the Internet. It discusses how current subjects of MBI include a YouTuber who videos herself antagonizing customers and fainting in Walmart; a 20-something-year-old wellness influencer who swears by medical marijuana and posts about her bowel habits; an actress-turned-“professional patient” who twerks while receiving blood transfusions; and a teenager who wears crop tops to show off her feeding tubes. The document also discusses how the Reddit page Illness Fakers (IF) attempts to identify these individuals and discusses the reaction of the online disability community to the issue.</li>\n</ul>\n",
+				"date_published": "2022-11-26T23:12:01+01:00",
+				"url": "https://ergosum.one/2022/11/26/disease-and-deception.html"
+			},
+			{
+				"id": "http://wavenumber.micro.blog/2022/11/26/what-if-the.html",
+				
+				"content_html": "<p><a href=\"http://backreaction.blogspot.com/2022/10/what-if-effect-comes-before-cause.html\">What If the Effect Comes Before the Cause?</a></p>\n<ul>\n<li>It discusses the idea of retrocausality, or the idea that an effect can come before its cause. It discusses how this could create problems with causality, and how it could be used to explain the strange features of quantum mechanics.</li>\n</ul>\n",
+				"content_text": "<p><a href=\"http://backreaction.blogspot.com/2022/10/what-if-effect-comes-before-cause.html\">What If the Effect Comes Before the Cause?</a></p>\n\n<ul>\n<li>It discusses the idea of retrocausality, or the idea that an effect can come before its cause. It discusses how this could create problems with causality, and how it could be used to explain the strange features of quantum mechanics.</li>\n</ul>\n",
+				"date_published": "2022-11-26T23:08:00+01:00",
+				"url": "https://ergosum.one/2022/11/26/what-if-the.html"
+			},
+			{
+				"id": "http://wavenumber.micro.blog/2022/11/26/it-looks-like.html",
+				
+				"content_html": "<p><a href=\"https://www.nytimes.com/2022/11/05/science/octopus-shell-argonaut.html?smid=nytcore-ios-share&amp;referringSource=articleShare\">It Looks Like a Shell, but an Octopus and 40,000 Eggs Live Inside</a></p>\n<ul>\n<li>The argonaut octopus has evolved the ability to produce a floating shell-like structure to care for its offspring. This shell-like structure is made of a mineral formula that is seceted by the octopus using two of its arms. The shell-like structure can grow to nearly a foot in length and can hold more than 40,000 embryos. The argonaut octopus crawls inside its shell-like purse, traps some air bubbles inside, then uses its buoyancy to bob just beneath the surface of water in warm oceans around the world.\nThe argonaut octopus has evolved this ability independently, and not by reactivating archaic genes from the mollusk era. The argonaut octopus&#8217;s shell-like egg case didn&#8217;t evolve from the ancestral shell, but it is the argonauts’ own evolutionary innovation for a new purpose.\nThe findings also feed into a debate over whether the argonaut’s egg case should really be called a shell. Michael Vecchione of the National Museum of Natural History wishes people wouldn&#8217;t call it a shell because there’s a major difference in how it’s constructed.\nOther mollusks make their shells with mantle tissue secreted by a gland, Dr. Vecchione said, whereas the arm tips of A. argo secrete the argonaut’s shell material.\nHe hopes these novel findings will finally convince people to stop calling it a shell and start a rebrand.\nBeyond the shell debate, Dr. Setiamarga and colleagues’ new genome sequence may help scientists understand more about how argonauts evolved to be pelagic, or living in open waters, and not benthic, like other octopuses who prefer the depths.</li>\n</ul>\n",
+				"content_text": "<p><a href=\"https://www.nytimes.com/2022/11/05/science/octopus-shell-argonaut.html?smid=nytcore-ios-share&amp;referringSource=articleShare\">It Looks Like a Shell, but an Octopus and 40,000 Eggs Live Inside</a></p>\n\n<ul>\n<li>The argonaut octopus has evolved the ability to produce a floating shell-like structure to care for its offspring. This shell-like structure is made of a mineral formula that is seceted by the octopus using two of its arms. The shell-like structure can grow to nearly a foot in length and can hold more than 40,000 embryos. The argonaut octopus crawls inside its shell-like purse, traps some air bubbles inside, then uses its buoyancy to bob just beneath the surface of water in warm oceans around the world.\nThe argonaut octopus has evolved this ability independently, and not by reactivating archaic genes from the mollusk era. The argonaut octopus&#8217;s shell-like egg case didn&#8217;t evolve from the ancestral shell, but it is the argonauts’ own evolutionary innovation for a new purpose.\nThe findings also feed into a debate over whether the argonaut’s egg case should really be called a shell. Michael Vecchione of the National Museum of Natural History wishes people wouldn&#8217;t call it a shell because there’s a major difference in how it’s constructed.\nOther mollusks make their shells with mantle tissue secreted by a gland, Dr. Vecchione said, whereas the arm tips of A. argo secrete the argonaut’s shell material.\nHe hopes these novel findings will finally convince people to stop calling it a shell and start a rebrand.\nBeyond the shell debate, Dr. Setiamarga and colleagues’ new genome sequence may help scientists understand more about how argonauts evolved to be pelagic, or living in open waters, and not benthic, like other octopuses who prefer the depths.</li>\n</ul>\n",
+				"date_published": "2022-11-26T23:03:47+01:00",
+				"url": "https://ergosum.one/2022/11/26/it-looks-like.html"
+			},
+			{
+				"id": "http://wavenumber.micro.blog/2022/11/26/murakami-on-writing.html",
+				
+				"content_html": "<p><a href=\"https://quillette.com/2022/11/24/murakami-on-writing/\">Murakami On Writing</a></p>\n<ul>\n<li>A book review of &#8220;Novelist as a Vocation&#8221; by Haruki Murakami. The reviewer summarizing the book states that it is a collection of essays that offer insight into Murakami&#8217;s profession, and that the author is at pains to stress that these are simply his own thoughts and experiences and that he is not really giving advice at all. The reviewer goes on to say that, despite his success, Murakami remains painfully self-effacing, telling us that he is “ordinary” and unintelligent, and he often seems to be baffled (and even troubled) by what he has achieved. The reviewer also states that the book is notably bereft of personal detail and it is filled, instead, with already well-established moments from his life—a handful of stories he has rehashed endlessly in interviews and essays, perhaps hoping to deflect any meaningful inquiry into his life.</li>\n</ul>\n",
+				"content_text": "<p><a href=\"https://quillette.com/2022/11/24/murakami-on-writing/\">Murakami On Writing</a></p>\n\n<ul>\n<li>A book review of &#8220;Novelist as a Vocation&#8221; by Haruki Murakami. The reviewer summarizing the book states that it is a collection of essays that offer insight into Murakami&#8217;s profession, and that the author is at pains to stress that these are simply his own thoughts and experiences and that he is not really giving advice at all. The reviewer goes on to say that, despite his success, Murakami remains painfully self-effacing, telling us that he is “ordinary” and unintelligent, and he often seems to be baffled (and even troubled) by what he has achieved. The reviewer also states that the book is notably bereft of personal detail and it is filled, instead, with already well-established moments from his life—a handful of stories he has rehashed endlessly in interviews and essays, perhaps hoping to deflect any meaningful inquiry into his life.</li>\n</ul>\n",
+				"date_published": "2022-11-26T22:24:45+01:00",
+				"url": "https://ergosum.one/2022/11/26/murakami-on-writing.html"
+			},
+			{
+				"id": "http://wavenumber.micro.blog/2022/11/26/strange-black-hole.html",
+				
+				"content_html": "<p><a href=\"https://arstechnica.com/science/2022/11/strange-black-hole-merger-may-have-been-a-rare-random-encounter/\">Strange black hole merger may have been a rare random encounter</a></p>\n<ul>\n<li>In short, researchers are suggesting that the GW190521 black hole merger may have been the product of two black holes finding each other in the vastness of space, rather than the product of two massive stars that formed as a binary system. This is based on the fact that the GW190521 signal did not fit templates especially well and only matched best if the black holes involved weren&#8217;t spinning at all. The chirp was unusually short, and there is no sign of a signal prior to the actual merger. Finally, both of the objects involved in the merger were relatively massive: about 50 and 80 times the mass of the Sun. Black holes of this size don&#8217;t form in supernovae (those typically start out with less than 15 solar masses), so these are likely the products of prior collisions.</li>\n</ul>\n",
+				"content_text": "<p><a href=\"https://arstechnica.com/science/2022/11/strange-black-hole-merger-may-have-been-a-rare-random-encounter/\">Strange black hole merger may have been a rare random encounter</a></p>\n\n<ul>\n<li>In short, researchers are suggesting that the GW190521 black hole merger may have been the product of two black holes finding each other in the vastness of space, rather than the product of two massive stars that formed as a binary system. This is based on the fact that the GW190521 signal did not fit templates especially well and only matched best if the black holes involved weren&#8217;t spinning at all. The chirp was unusually short, and there is no sign of a signal prior to the actual merger. Finally, both of the objects involved in the merger were relatively massive: about 50 and 80 times the mass of the Sun. Black holes of this size don&#8217;t form in supernovae (those typically start out with less than 15 solar masses), so these are likely the products of prior collisions.</li>\n</ul>\n",
+				"date_published": "2022-11-26T19:22:45+01:00",
+				"url": "https://ergosum.one/2022/11/26/strange-black-hole.html"
+			},
+			{
+				"id": "http://wavenumber.micro.blog/2022/11/25/in-from-the.html",
+				
+				"content_html": "<p><a href=\"https://quillette.com/2022/11/25/in-from-the-cold/\">In From the Cold</a></p>\n<ul>\n<li>The story of Aleksandr Solzhenitsyn, a Russian writer who became famous overnight for his book <em>One Day in the Life of Ivan Denisovich</em>. The book was published in the USSR during the Khrushchev era and was met with great jubilation as it spoke openly and honestly about subjects that were hitherto forbidden. However, Solzhenitsyn was later denounced by the Soviet regime and his books were banned for over 20 years. He eventually won a Nobel Prize for literature and died in 2008.</li>\n</ul>\n",
+				"content_text": "<p><a href=\"https://quillette.com/2022/11/25/in-from-the-cold/\">In From the Cold</a></p>\n\n<ul>\n<li>The story of Aleksandr Solzhenitsyn, a Russian writer who became famous overnight for his book <em>One Day in the Life of Ivan Denisovich</em>. The book was published in the USSR during the Khrushchev era and was met with great jubilation as it spoke openly and honestly about subjects that were hitherto forbidden. However, Solzhenitsyn was later denounced by the Soviet regime and his books were banned for over 20 years. He eventually won a Nobel Prize for literature and died in 2008.</li>\n</ul>\n",
+				"date_published": "2022-11-25T03:00:50+01:00",
+				"url": "https://ergosum.one/2022/11/25/in-from-the.html"
+			},
+			{
+				"id": "http://wavenumber.micro.blog/2022/11/25/world-population-hits.html",
+				
+				"content_html": "<p><a href=\"https://www.nature.com/articles/d41586-022-03720-6\">World population hits eight billion - here’s how researchers predict it will grow</a></p>\n<ul>\n<li>The organization recently changed how it analyses data, switching from five-yearly to annual intervals. And there has been a steady improvement in recent decades in the ability and capacity of many countries to collect statistics. The UN predicts that global population will be about 9.5 billion in 2100. The institute is now preparing an update, which will raise that estimate to between 10 billion and 10.1 billion. The change is due to higher observed and expected survival rates among children in lower-income countries, Sobotka says. Another factor is higher estimates of fertility rates in some large countries, including Pakistan.</li>\n</ul>\n",
+				"content_text": "<p><a href=\"https://www.nature.com/articles/d41586-022-03720-6\">World population hits eight billion - here’s how researchers predict it will grow</a></p>\n\n<ul>\n<li>The organization recently changed how it analyses data, switching from five-yearly to annual intervals. And there has been a steady improvement in recent decades in the ability and capacity of many countries to collect statistics. The UN predicts that global population will be about 9.5 billion in 2100. The institute is now preparing an update, which will raise that estimate to between 10 billion and 10.1 billion. The change is due to higher observed and expected survival rates among children in lower-income countries, Sobotka says. Another factor is higher estimates of fertility rates in some large countries, including Pakistan.</li>\n</ul>\n",
+				"date_published": "2022-11-25T01:16:53+01:00",
+				"url": "https://ergosum.one/2022/11/25/world-population-hits.html"
+			},
+			{
+				"id": "http://wavenumber.micro.blog/2022/11/25/the-most-famous.html",
+				
+				"content_html": "<p><a href=\"https://www.quantamagazine.org/the-most-famous-paradox-in-physics-nears-its-end-20201029/\">The Most Famous Paradox in Physics Nears Its End</a></p>\n<ul>\n<li>The black hole information paradox has been a puzzle for physicists for nearly 50 years. However, recent breakthroughs have shown that information does escape black holes, through the workings of gravity itself. This is a major breakthrough in understanding black holes, but there is still much more work to be done in order to fully understand them.</li>\n</ul>\n",
+				"content_text": "<p><a href=\"https://www.quantamagazine.org/the-most-famous-paradox-in-physics-nears-its-end-20201029/\">The Most Famous Paradox in Physics Nears Its End</a></p>\n\n<ul>\n<li>The black hole information paradox has been a puzzle for physicists for nearly 50 years. However, recent breakthroughs have shown that information does escape black holes, through the workings of gravity itself. This is a major breakthrough in understanding black holes, but there is still much more work to be done in order to fully understand them.</li>\n</ul>\n",
+				"date_published": "2022-11-25T01:08:12+01:00",
+				"url": "https://ergosum.one/2022/11/25/the-most-famous.html"
+			},
+			{
+				"id": "http://wavenumber.micro.blog/2022/11/24/parasite-gives-wolves.html",
+				
+				"content_html": "<p><a href=\"https://www.nature.com/articles/d41586-022-03836-9\">Parasite gives wolves what it takes to be pack leaders</a></p>\n<ul>\n<li>Wolves infected with a common parasite are more likely to lead a pack than uninfected animals, according to an analysis of more than 200 North American wolves. Infected animals are also more likely to leave their home packs and strike out on their own.</li>\n</ul>\n",
+				"content_text": "[Parasite gives wolves what it takes to be pack leaders](https://www.nature.com/articles/d41586-022-03836-9)\n\n- Wolves infected with a common parasite are more likely to lead a pack than uninfected animals, according to an analysis of more than 200 North American wolves. Infected animals are also more likely to leave their home packs and strike out on their own.\n",
+				"date_published": "2022-11-24T21:16:50+01:00",
+				"url": "https://ergosum.one/2022/11/24/parasite-gives-wolves.html"
+			},
+			{
+				"id": "http://wavenumber.micro.blog/2022/11/23/genes-and-tongues.html",
+				
+				"content_html": "<p><a href=\"https://www.mpg.de/19524042/1121-evan-genes-and-tongues-not-always-together-150495-x\">Genes and tongues are not always tied together</a></p>\n<ul>\n<li>The text discusses the global database GeLaTo, which links linguistic and genetic data, and the findings of a study on the relationship between languages and genes. The study found that there are a large number of matches between the two, but also widespread and systematic mismatches. The mismatches typically result from populations shifting to the language of a genetically different neighbouring population. The study provides new insight into the role of language in shaping human diversity.</li>\n</ul>\n",
+				"content_text": "[Genes and tongues are not always tied together](https://www.mpg.de/19524042/1121-evan-genes-and-tongues-not-always-together-150495-x)\n\n- The text discusses the global database GeLaTo, which links linguistic and genetic data, and the findings of a study on the relationship between languages and genes. The study found that there are a large number of matches between the two, but also widespread and systematic mismatches. The mismatches typically result from populations shifting to the language of a genetically different neighbouring population. The study provides new insight into the role of language in shaping human diversity.\n",
+				"date_published": "2022-11-23T23:12:48+01:00",
+				"url": "https://ergosum.one/2022/11/23/genes-and-tongues.html"
+			},
+			{
+				"id": "http://wavenumber.micro.blog/2022/11/23/the-mystery-of.html",
+				
+				"content_html": "<p><a href=\"https://www.math.columbia.edu/~woit/wordpress/?p=13152\">The Mystery of Spin</a></p>\n<ul>\n<li>The article discusses a paper by Charles Sebens which claims that electrons have &ldquo;spin&rdquo; even though they aren&rsquo;t classical spinning material objects. The article argues that this phenomenon is already present in the single particle theory, and that the quantum field theory just provides a consistent multi-particle theory. It also claims that while relativity and four-dimensional space-time geometry introduce new aspects to the spin phenomenon, it’s already present in the non-relativistic theory with its three-dimensional spatial geometry.</li>\n</ul>\n",
+				"content_text": "[The Mystery of Spin](https://www.math.columbia.edu/~woit/wordpress/?p=13152)\n\n- The article discusses a paper by Charles Sebens which claims that electrons have \"spin\" even though they aren't classical spinning material objects. The article argues that this phenomenon is already present in the single particle theory, and that the quantum field theory just provides a consistent multi-particle theory. It also claims that while relativity and four-dimensional space-time geometry introduce new aspects to the spin phenomenon, it’s already present in the non-relativistic theory with its three-dimensional spatial geometry.\n",
+				"date_published": "2022-11-23T17:37:31+01:00",
+				"url": "https://ergosum.one/2022/11/23/the-mystery-of.html"
+			},
+			{
+				"id": "http://wavenumber.micro.blog/2022/11/22/experiments-with-midjourney.html",
+				
+				"content_html": "<p>Experiments with <a href=\"https://www.midjourney.com/\">Midjourney</a>.</p>\n<p>Command: <code>Léa Seydoux, black and white, clean lines, illustration style --v 4</code></p>\n<img src=\"uploads/2022/3428808d78.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Experiments with [Midjourney](https://www.midjourney.com/).\n\nCommand: ```Léa Seydoux, black and white, clean lines, illustration style --v 4```\n\n\n\n<img src=\"uploads/2022/3428808d78.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-11-22T20:32:39+01:00",
+				"url": "https://ergosum.one/2022/11/22/experiments-with-midjourney.html"
+			},
 			{
 				"id": "http://wavenumber.micro.blog/2022/11/20/234134.html",
 				
 				"content_html": "<p>Experiments with <a href=\"https://www.midjourney.com/\">Midjourney</a>.</p>\n<p>Command: <code>gorgeous girl in flowers, black and white, clean lines, illustration style</code></p>\n<img src=\"uploads/2022/8960b96ed8.jpg\" width=\"512\" height=\"512\" alt=\"\">\n",
 				"content_text": "Experiments with [Midjourney](https://www.midjourney.com/).\n\nCommand: ```gorgeous girl in flowers, black and white, clean lines, illustration style```\n\n<img src=\"uploads/2022/8960b96ed8.jpg\" width=\"512\" height=\"512\" alt=\"\">\n",
 				"date_published": "2022-11-20T23:41:34+01:00",
-				"url": "https://wavenumber.micro.blog/2022/11/20/234134.html"
+				"url": "https://ergosum.one/2022/11/20/234134.html"
 			},
 			{
 				"id": "http://wavenumber.micro.blog/2022/11/20/experiments-with-midjourney.html",
 				
-				"content_html": "<p>Experiments with <a href=\"https://www.midjourney.com\">Midjourney</a>.</p>\n<p>Command: \n<code>&quot;Tangled up in Blue&quot; song by Dylan --v 4</code></p>\n<img src=\"uploads/2022/c7a0f4d50f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"content_text": "Experiments with [Midjourney](https://www.midjourney.com).\r\n \r\nCommand: \r\n```\"Tangled up in Blue\" song by Dylan --v 4```\n\n<img src=\"uploads/2022/c7a0f4d50f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Experiments with <a href=\"https://www.midjourney.com\">Midjourney</a>.</p>\n<p>Command: \n<code>&quot;Tangled up in Blue&quot; song by Dylan --v 4</code></p>\n<img src=\"https://wavenumber.micro.blog/uploads/2022/c7a0f4d50f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Experiments with [Midjourney](https://www.midjourney.com).\r\n \r\nCommand: \r\n```\"Tangled up in Blue\" song by Dylan --v 4```\n\n<img src=\"https://wavenumber.micro.blog/uploads/2022/c7a0f4d50f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-20T23:21:03+01:00",
-				"url": "https://wavenumber.micro.blog/2022/11/20/experiments-with-midjourney.html"
+				"url": "https://ergosum.one/2022/11/20/experiments-with-midjourney.html"
 			},
 			{
 				"id": "http://wavenumber.micro.blog/2022/11/18/hello-world.html",
@@ -28,7 +148,7 @@
 				"content_html": "<p>Hello World! :-)</p>\n",
 				"content_text": "Hello World! :-)\n",
 				"date_published": "2022-11-18T03:51:36+01:00",
-				"url": "https://wavenumber.micro.blog/2022/11/18/hello-world.html"
+				"url": "https://ergosum.one/2022/11/18/hello-world.html"
 			}
 	]
 }
